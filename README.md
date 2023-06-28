@@ -9,8 +9,6 @@ The dataset used for training and evaluation is stored in the file `Symptom2Dise
 
 ## Getting Started
 
-To get started with the project, follow the instructions below:
-
 1. Clone the repository:
 
 ```
