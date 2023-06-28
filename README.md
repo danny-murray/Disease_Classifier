@@ -12,7 +12,7 @@ The dataset used for training and evaluation is stored in the file `Symptom2Dise
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/Symptom2DiseaseClassifier.git
+git clone https://github.com/danny-murray/Disease_Classifier.git
 ```
 
 2. Install the required dependencies:
@@ -31,9 +31,7 @@ python main.py
 
 The project structure is organised as:
 
-- `main.py`: The main script for training the classifier and making predictions.
-- `exploratory_data_analysis.py`: Script for performing exploratory data analysis on the dataset.
-- `utils.py`: Utility functions for data preprocessing and evaluation.
+- `symptoms_disease.py`: The main script for training the classifier and making predictions.
 - `Symptom2Disease.csv`: Dataset file containing symptom descriptions and disease labels.
 
 ## Results
