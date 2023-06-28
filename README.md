@@ -5,7 +5,7 @@ This repository contains code for building a symptom-to-disease classifier using
 
 ## Dataset
 
-The dataset used for training and evaluation is stored in the file `Symptom2Disease.csv`. It comprises a collection of symptom descriptions and their corresponding disease labels.
+The dataset used for training and evaluation is stored in the file `Symptom2Disease.csv`. It comprises a collection of symptom descriptions and their corresponding disease labels. The dataset comprises 24 different diseases; each disease has 50 symptom descriptions, resulting in a total of 1200 datapoints
 
 ## Getting Started
 
