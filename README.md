@@ -24,7 +24,7 @@ pip install -r requirements.txt
 3. Run the main script to train the classifier and make predictions:
 
 ```
-python main.py
+python symptoms_disease.py
 ```
 
 ## Project Structure
